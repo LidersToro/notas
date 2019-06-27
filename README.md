@@ -1,0 +1,2 @@
+# notas
+hacien un lisview 
